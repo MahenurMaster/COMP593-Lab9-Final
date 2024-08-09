@@ -1,4 +1,5 @@
 """
+Authors: Mahenur Master, Nisharg Patel, Sneha Malhotra, Siddharth Patel
 
 Description: 
   Graphical user interface that displays specific details about a 

@@ -1,3 +1,4 @@
+'''Authors: Mahenur Master, Nisharg Patel, Sneha Malhotra, Siddharth Patel'''
 import requests
 
 # Base URL for accessing Pokémon data
